@@ -1,8 +1,15 @@
-D:/sch/lab4/Ex2_name_OR.v {1 {vlog -work work D:/sch/lab4/Ex2_name_OR.v
+D:/sch/Ex2_name_OR.v {1 {vlog -work work D:/sch/Ex2_name_OR.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module Ex2_OR
 
 Top level modules:
 	Ex2_OR
+
+} {} {}} D:/sch/my_Ex2_OR.v {1 {vlog -work work D:/sch/my_Ex2_OR.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module My_Ex2_OR
+
+Top level modules:
+	My_Ex2_OR
 
 } {} {}}
